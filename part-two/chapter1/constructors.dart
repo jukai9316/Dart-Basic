@@ -13,7 +13,7 @@ class Person{
   String name;
   int age;
 
-  final String gender;
+  String gender;
 
   Person(this.name,this.age,this.gender);
 
