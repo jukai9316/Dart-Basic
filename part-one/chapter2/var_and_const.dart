@@ -13,6 +13,8 @@ void main(){
   a = 'Hello Dart';
   print(a);
 
+
+  print("\n");
   var b = 20;
   print(b);
 
@@ -21,5 +23,9 @@ void main(){
 
   const d = 20;
 //  d = 50;
+
+  var e = 10;
+  print(e);//10
+//  e = "dart"; //写法错误
 
 }

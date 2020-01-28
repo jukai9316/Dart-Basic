@@ -7,11 +7,13 @@ void main(){
   String str1 = 'Hello';//""
   String str2 = '''Hello
                   Dart''';//"""
+  print(str1);
   print(str2);
 
 //  String str3 = 'Hello \n Dart';
   String str3 = r'Hello \n Dart';
   print(str3);
+
 
   String str4 = "This is my favorite language";
   print(str4 + "New");

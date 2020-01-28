@@ -6,6 +6,9 @@
 void main(){
   bool isTrue = true;
   bool isFalse = false;
-
+  bool defaultBool ;
+  print(isTrue);
+  print(isFalse);
+  print(defaultBool);
   print("Hello".isEmpty);
 }
