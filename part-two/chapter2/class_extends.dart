@@ -23,6 +23,8 @@ void main() {
     person.study();
   }
 
+  (person as Student).study();
+
   print(person);
 }
 

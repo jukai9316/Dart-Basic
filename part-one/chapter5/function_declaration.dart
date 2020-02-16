@@ -8,8 +8,6 @@ void main(List args){
 
   print(getPerson("张三", 18));
 
-
-
   print(printPerson("李四", 20));
 }
 
